@@ -1,0 +1,4 @@
+This is file 2 of folder 3
+Welcome
+folder 3 file 2
+modified from feature2
